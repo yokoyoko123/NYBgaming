@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F32B7848-1104-A0E2-EAED-A7CA9DB8C703}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/キャラチップ/character1/MainCharacter.cs">
+    <Files>
+      <File FileName="Assets/キャラチップ/character1/MainCharacter.cs" Line="30" Column="9" />
+      <File FileName="Assets/キャラチップ/image.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nybgame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="キャラチップ" expanded="True">
+                <Node name="character1" expanded="True">
+                  <Node name="MainCharacter.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9aeedd58-fa8d-4ae3-8f4e-b9c956c10e61" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
